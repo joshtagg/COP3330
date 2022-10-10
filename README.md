@@ -1,4 +1,4 @@
 # COP3330
 UCF Course: Object Oriented Programming
 
-Archive: Spring 2022
+Archive: Spring 2022 Semester
